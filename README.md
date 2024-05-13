@@ -15,6 +15,9 @@ Console.WriteLine("Offset");
   <img src="https://mms.businesswire.com/media/20201113005450/en/307885/22/OpenMPLogo-rgb.jpg" title="OpenMP" width="70" height="40"/>&nbsp  
 </div>
 
+### Статистика на GitHub
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Spoon221&layout=compact&theme=dark)
+
 #### Получается мои контакты:
 <div id="badges">
     <a href="https://t.me/EvgeniiSimakov" target="telegram">
