@@ -1,4 +1,4 @@
-# Получается геймдевер на Unity и не только
+# Получается геймдевер на Unity и мобильный разработчик qt creator
 
 <div>
 Console.WriteLine("Offset");<br>
@@ -13,6 +13,7 @@ Console.WriteLine("Offset");
   <img src="https://sun6-22.userapi.com/s/v1/ig2/XoeNT5AkCL3SbemsEzkYOGnsdVAbnO7SQ-aV_Gi-Q7SvKIuKxYhMVlLW6jLPnF3yfWx1nu6rpqyvtw7yZNNv1ws9.jpg?size=1342x1342&quality=96&crop=35,43,1342,1342&ava=1" title="C++" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" width="40" height="40"/>&nbsp
   <img src="https://mms.businesswire.com/media/20201113005450/en/307885/22/OpenMPLogo-rgb.jpg" title="OpenMP" width="70" height="40"/>&nbsp  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Qt_logo_neon_2022.svg/1200px-Qt_logo_neon_2022.svg.png" title="QtCreator" width="53" height="40"/>&nbsp  
 </div>
 
 ### Статистика на GitHub
