@@ -36,4 +36,7 @@ I am engaged in game development, specializing in Unity and web applications usi
    <a href="https://www.linkedin.com/in/евгений-симаков-7680b0345/" target="linkedin">
       <img src="https://logodix.com/logo/4340.png" width="35" height="30" alt="linkedin" />
     </a>
+   <a href="https://resumeevgeniysimakov.vercel.app/" target="link">
+      <img src="https://img.icons8.com/?size=100&id=91&format=png&color=000000" width="35" height="30" alt="link" />
+    </a>
 </div>
