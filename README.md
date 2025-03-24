@@ -1,4 +1,4 @@
-# 🎮 Game Developer & Mobile Developer
+# 🎮 Front-end Developer | Game & Mobile Developer
 
 <div>
 I am engaged in game development, specializing in Unity and web applications using Three.js and Drei.
