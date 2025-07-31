@@ -1,42 +1,98 @@
-# 🎮 Front-end Developer | Game & Mobile Developer
+# 🎮 Evgeny Simakov | Front-end Developer | Game & Mobile Developer
 
-<div>
-I am engaged in game development, specializing in Unity and web applications using Three.js and Drei.
+<div align="center">
+  <img src="https://img.shields.io/badge/Frontend_Developer-React_|_Next.js_|_TypeScript-blue?style=for-the-badge&logo=react" alt="Frontend Developer"/>
+  <img src="https://img.shields.io/badge/Game_Developer-Unity_|_C%23-green?style=for-the-badge&logo=unity" alt="Game Developer"/>
+  <img src="https://img.shields.io/badge/Mobile_Developer-Cross_Platform-orange?style=for-the-badge&logo=mobile" alt="Mobile Developer"/>
 </div>
 
-### 💻 Hard Skills:
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-plain.svg" title="Unity" width="40" height="40"/>&nbsp
-  <img src="https://cdn.coursehunter.net/category/c-sharp-c.png" title="C#" width="40" height="40"/>&nbsp
-  <img src="https://sun6-22.userapi.com/s/v1/ig2/XoeNT5AkCL3SbemsEzkYOGnsdVAbnO7SQ-aV_Gi-Q7SvKIuKxYhMVlLW6jLPnF3yfWx1nu6rpqyvtw7yZNNv1ws9.jpg?size=1342x1342&quality=96&crop=35,43,1342,1342&ava=1" title="C++" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" width="40" height="40"/>&nbsp
-  <img src="https://mms.businesswire.com/media/20201113005450/en/307885/22/OpenMPLogo-rgb.jpg" title="OpenMP" width="70" height="40"/>&nbsp  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Qt_logo_neon_2022.svg/1200px-Qt_logo_neon_2022.svg.png" title="QtCreator" width="53" height="40"/>&nbsp  
-   <img src="https://repository-images.githubusercontent.com/428522203/d14bdf1e-ecaa-4111-a182-8f80b38e42e3" title="QtCreator" width="80" height="40"/>&nbsp  
+<div align="center">
+  <h3>🚀 Creating interactive web applications and engaging games</h3>
 </div>
 
-### 📊 GitHub Statistics
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Spoon221&layout=compact&theme=dark)
+---
 
-#### 📫 Contact Me
-<div id="badges">
-    <a href="https://t.me/EvgeniiSimakov" target="telegram">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="35" height="30" alt="telegram" />
-    </a>
-    <a href="https://vk.com/merczz" target="VK">
-      <img src="https://avatanplus.com/files/resources/original/56df0dbaee8c9153574da261.png" width="35" height="30" alt="VK" />
-    </a>
-   <a href="http://discordapp.com/users/407174070950428683" target="discord">
-      <img src="https://steamuserimages-a.akamaihd.net/ugc/1705162332537241463/82ECFF52DC094F08F695849DB54692F26B4980C9/?imw=512&amp" width="35" height="30" alt="discord" />
-    </a>
-   <a href="https://x.com/spoon22112?s=21" target="X">
-      <img src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?t=st=1741340844~exp=1741344444~hmac=0214068ef44df62e638f135bc56f6cfc526fec72d425e9fb71065195338a392d&w=740" width="35" height="30" alt="X" />
-    </a>
-   <a href="https://www.linkedin.com/in/евгений-симаков-7680b0345/" target="linkedin">
-      <img src="https://logodix.com/logo/4340.png" width="35" height="30" alt="linkedin" />
-    </a>
-   <a href="https://resumeevgeniysimakov.vercel.app/" target="link">
-      <img src="https://img.icons8.com/?size=100&id=91&format=png&color=000000" width="35" height="30" alt="link" />
-    </a>
+## 👨‍💻 About Me
+
+<div align="center">
+  <p>I'm passionate about game development, specializing in Unity and web applications using Three.js and Drei.</p>
+  <p>Creating interactive 3D experiences and modern web solutions.</p>
 </div>
+
+---
+
+## 🛠 Technical Skills
+
+### 🎮 Game Development
+<div align="center">
+  <img src="https://img.shields.io/badge/Unity-2022.3+-black?style=flat-square&logo=unity" alt="Unity"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/OpenMP-00599C?style=flat-square&logo=openmp&logoColor=white" alt="OpenMP"/>
+</div>
+
+### 🌐 Web Development
+<div align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white" alt="Three.js"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+</div>
+
+### 🖥️ Desktop Development
+<div align="center">
+  <img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white" alt="Qt"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+</div>
+
+### 🛠️ Tools & Technologies
+<div align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white" alt="Visual Studio"/>
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Spoon221&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Spoon221&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=8B949E" alt="Top Languages"/>
+</div>
+
+---
+
+## 🎯 Current Projects
+
+<div align="center">
+  <p>🔄 Working on interactive 3D web applications</p>
+  <p>🎮 Developing games on Unity</p>
+  <p>📱 Creating cross-platform mobile solutions</p>
+</div>
+
+---
+
+## 📫 Contact Me
+
+<div align="center">
+  <a href="https://t.me/EvgeniiSimakov" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="https://vk.com/merczz" target="_blank">
+    <img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white" alt="VK"/>
+  </a>
+  <a href="http://discordapp.com/users/407174070950428683" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  <a href="https://x.com/spoon22112" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+  <a href="https://www.linkedin.com/in/евгений-симаков-7680b0345/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://resumeevgeniysimakov.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
+  </a>
+</div> 
