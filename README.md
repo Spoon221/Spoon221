@@ -1,4 +1,4 @@
-# 🎮 Evgeny Simakov | Front-end Developer | Game & Mobile Developer
+# 🎮 Evgeny Simakov | Fullstack Developer
 
 <div align="center">
   <img src="https://img.shields.io/badge/Frontend_Developer-React_|_Next.js_|_TypeScript-blue?style=for-the-badge&logo=react" alt="Frontend Developer"/>
@@ -15,7 +15,7 @@
 ## 👨‍💻 About Me
 
 <div align="center">
-  <p>I'm passionate about game development, specializing in Unity and web applications using Three.js and Drei.</p>
+  <p>I'm passionate about game development, specializing in Unity and web applications using Three.js, Golang, python, nest.js.</p>
   <p>Creating interactive 3D experiences and modern web solutions.</p>
 </div>
 
